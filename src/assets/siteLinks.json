@@ -1,18 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "Arxiv",
+    "link": "https://arxiv.org/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Inspire",
+    "link": "https://inspirehep.net/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "Scihub",
+    "link": "https://sci-hub.se/?lang=zh"
   },
   {
     "icon": "Compass",
